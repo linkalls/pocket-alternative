@@ -46,11 +46,11 @@ bun install
 bun dev
 ```
 
-### モバイル/デスクトップ（Flutter）
+### web
 ```bash
-cd mobile
-flutter pub get
-flutter run
+cd frontend/
+bun install
+bun dev
 ```
 
 ## ライセンス

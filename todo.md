@@ -1,9 +1,9 @@
 # TODO リスト
 
-## バックエンド（Elysia + Bun + drizzle + bun:sqlite）
+## バックエンド（Elysia + Bun + drizzle ）
 
 ### API実装
-- [x] プロジェクトセットアップ
+- [] プロジェクトセットアップ
 - [ ] データベーススキーマ設計
 - [ ] ユーザー認証API
   - [ ] 登録
